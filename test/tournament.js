@@ -2,6 +2,7 @@ var MachinePoker = require('../machine-poker')
     , CallBot = require('../players/callBot')
     , UnpredictableBot = require('../players/unpredictableBot')
     , RandBot = require('../players/randBot')
+    , RandBot = require('../players/crazyMattBot')
     , JsSeat = MachinePoker.seats.JsLocal;
 
 exports.createTable = function (challenger, opts) {
