@@ -1,9 +1,9 @@
-# Building an AI Poker Tournament: Quick Collaboration Using Bluemix DevOps Open Toolchain - Randall Ho
+# Building an AI Poker Tournament: Quick Collaboration Using Bluemix DevOps Open Toolchain
 ---
 
 ## Introduction
 
-Welcome! In this lightning session we'll be using the [Open Toolchain](https://developer.ibm.com/devops-services/2016/06/16/open-toolchain-with-ibm-bluemix-devops-services/) feature of Bluemix to run an automated poker tournament among robot players. We will create a Github integration in our toolchain to copy the code in this repository and flow it to a Delivery Pipeline integration to run the tournament.
+Welcome! In this quick lab we'll be using the [Open Toolchain](https://developer.ibm.com/devops-services/2016/06/16/open-toolchain-with-ibm-bluemix-devops-services/) feature of Bluemix to run an automated poker tournament among robot players. We will create a Github integration in our toolchain to copy the code in this repository and flow it to a Delivery Pipeline integration to run the tournament.
 
 Bolder participants with knowledge of Javascript and poker mechanics will also be able to create their own AI players and contribute them back to this repository, competing against the other attendees of this session.
 
