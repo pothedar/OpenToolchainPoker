@@ -34,7 +34,7 @@ In our lab, we will utilize a handful of integrations to run our code quickly. F
 
 ### Prerequisite Accounts
 
-You will need to sign up for a [Bluemix](https://www.bluemix.net) account for this lab, if you don't already own one.
+You will need to sign up for a [Bluemix](https://interconnectlabs.mybluemix.net/) account for this lab, if you don't already own one.
 
 For those creating a new Bluemix account, you will also need to create an _organization_ and a _space_ in your account after logging in.
 
@@ -45,7 +45,7 @@ You will also need a free [GitHub](https://github.com/) account. Review the [ter
 
 ### Creating a Toolchain and running the tournament
 
-1. Once you've logged into [Bluemix](https://www.bluemix.net), click on the top left menu icon beside IBM Bluemix.
+1. Once you've logged into [Bluemix](https://interconnectlabs.mybluemix.net/), click on the top left menu icon beside IBM Bluemix.
 
 1. Click on **Services** and then the **DevOps** option from the left menu.
 
@@ -91,7 +91,9 @@ The latter parts of the lab are encouraged, but optional. They deal with creatin
 
 We hope you enjoyed experimenting with Open Toolchains and running poker simulations with Bluemix!
 
-Please let me know if you have any questions, concerns, or feedback for our product. Any feedback for the lab specifically would also be greatly appreciated.
+[Scan this QR code](https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=QR235) and **go claim a T-Shirt** from the info desk!
+
+Please let us know if you have any questions, concerns, or feedback for our product. Any feedback for the lab specifically would also be greatly appreciated.
 
 _If you want to learn more about the poker simulation framework, check out the [JsPoker](https://github.com/mdp/JsPoker) repository._
 
