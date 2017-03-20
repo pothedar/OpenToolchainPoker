@@ -3,11 +3,11 @@
 
 ## Introduction
 
-Welcome! In this quick lab we'll be using the [Open Toolchain](https://developer.ibm.com/devops-services/2016/06/16/open-toolchain-with-ibm-bluemix-devops-services/) feature of Bluemix to run an automated poker tournament among robot players. We will create a GitHub integration in our toolchain to copy the code in this repository and flow it to a Delivery Pipeline integration to run the tournament.
+Welcome! In this quick lab we'll be using the [Bluemix Continuous Delivery](https://www.ibm.com/blogs/bluemix/2016/11/bluemix-continuous-delivery-is-now-live/) feature of Bluemix to run an automated poker tournament among robot players. We will create a GitHub integration in our toolchain to copy the code in this repository and flow it to a Delivery Pipeline integration to run the tournament.
 
 Bolder participants with knowledge of JavaScript and poker mechanics will also be able to create their own AI players and contribute them back to this repository, competing against the other attendees of this session.
 
-A complementary leaderboard application will keep track of the current standings of the bots in this repository. You can view the results of past tournaments at this link: [otc-poker-leaderboard.mybluemix.net](https://otc-poker-leaderboard.mybluemix.net)
+A complementary leaderboard application will keep track of the current standings of the bots in this repository. You can view the results of past tournaments at this link: [ic17-otc-poker-leaderboard.mybluemix.net](https://ic17-otc-poker-leaderboard.mybluemix.net)
 
 Any additions to this repository (through pull requests) will automatically trigger a run of a set of tournaments, which will update the leaderboard automatically. The last 5 sets of tournaments, with the timestamp, players, and chip totals of each AI will be displayed.
 
@@ -45,9 +45,9 @@ You will also need a free [GitHub](https://github.com/) account. Review the [ter
 
 ### Creating a Toolchain and running the tournament
 
-1. Once you've logged into [Bluemix](https://interconnectlabs.mybluemix.net/), click on the top left menu icon beside IBM Bluemix.
+1. Go to [Bluemix](https://interconnectlabs.mybluemix.net/) to begin the lab. Here you can either open a new Bluemix account (it's free!) or choose to use an existing account.
 
-1. Click on **Services** and then the **DevOps** option from the left menu.
+1. Next, navigate to the IBM DevOps Services page in Bluemix at [https://bluemix.net/devops](https://bluemix.net/devops).
 
 1. You should now be on the Toolchains page. Click on `Create a toolchain`.
 
@@ -91,7 +91,10 @@ The latter parts of the lab are encouraged, but optional. They deal with creatin
 
 We hope you enjoyed experimenting with Open Toolchains and running poker simulations with Bluemix!
 
-[Scan this QR code](https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=QR235) and **go claim a T-Shirt** from the info desk!
+## Before you go!
+1. Don't forget to log out of both [GitHub](https://github.com) and [Bluemix](https://bluemix.net).
+
+1. [Scan this QR code](https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=QR235) and **go claim a T-Shirt** from the info desk!
 
 Please let us know if you have any questions, concerns, or feedback for our product. Any feedback for the lab specifically would also be greatly appreciated.
 
@@ -151,6 +154,6 @@ When you are comfortable with the behaviour of your bot, you can contribute it b
 - Click `Create Pull Request` and enter a description and optionally a comment.
 - Click `Create Pull Request` and flag down a lab moderator to review and merge the code.
 
-After a lab moderator merges the pull request, you should see the live-updated results on [otc-poker-leaderboard.mybluemix.net](https://otc-poker-leaderboard.mybluemix.net).
+After a lab moderator merges the pull request, you should see the live-updated results on [ic17-otc-poker-leaderboard.mybluemix.net](https://ic17-otc-poker-leaderboard.mybluemix.net).
 
 Congratulations on contributing! I wish your bot, the best of luck.
